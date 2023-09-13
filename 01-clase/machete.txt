@@ -1,0 +1,8 @@
+git init crea un repositorio, los archivos
+
+git status muestra el estado del repositorio
+
+git no realiza seguimiento de las carpetas vacias, por defecto
+.gitkeep para realizar el reguimiento
+
+.gitignore: para ignorar archivos o carpetas
